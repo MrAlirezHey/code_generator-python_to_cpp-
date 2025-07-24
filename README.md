@@ -55,9 +55,7 @@ The generated C++ code is also saved as a file named `optimized.cpp`.
 
 The script explicitly clears GPU memory and garbage collects models after generation to manage VRAM efficiently.
 
-## 📄 License
 
-MIT License
 
 ---
 
