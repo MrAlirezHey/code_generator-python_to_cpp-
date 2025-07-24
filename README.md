@@ -61,5 +61,5 @@ MIT License
 
 ---
 
-🔧 Maintained by [Alireza Heydari]. Contributions welcome!
+🔧 Maintained by Alireza Heydari. Contributions welcome!
 
