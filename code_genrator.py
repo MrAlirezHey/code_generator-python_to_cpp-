@@ -76,7 +76,6 @@ response=model.generate(text,max_new_tokens=2000,streamer=streamer)
 
 result=tokenizer.decode(response[0])
 
-result
 
 import re
 
@@ -84,7 +83,7 @@ match = re.search(r"```cpp\n(.*?)\n```", result, re.DOTALL)
 
 code=match.group(1).strip()
 
-print(code)
+
 
 import gc
 
